@@ -1,0 +1,5 @@
+# also needs "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+python-rtmidi==1.5.8
+librosa==0.18.2.post1
+matplotlib==3.9.2
+soundcard==0.4.3
